@@ -8,3 +8,7 @@ Workshops / Presentation / Demo's to use on the Global AI Bootcamp 2018 (www.glo
 * [Building Computer Vision Application Leveraging Custom Vision Service](https://azure.github.io/learnAnalytics-Buildingacomputervisionapplicationusingcustomvisionservice)
 * [Designing and Architecting Intelligent Agents](https://azure.github.io/LearnAI-DesigningandArchitectingIntelligentAgents/)
 * [Building an Enterprise Cognitive Search Solution](https://azure.github.io/LearnAI-Cognitive-Search/)
+
+
+### Hands-on Labs
+* [Robot challenge Lab](https://aischool.microsoft.com/en-us/intelligent-edge/learning-paths/robot-challenge-lab)
