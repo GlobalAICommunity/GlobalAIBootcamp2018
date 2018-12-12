@@ -1,6 +1,8 @@
 # GlobalAIBootcamp2018
 Workshops / Presentation / Demo's to use on the Global AI Bootcamp 2018 (www.globalaibootcamp.com)
 
+### Automated Machine Learning
+* [Workshop : Learn How to Build a Machine Learning Model Using Automated Machine Learning](automatedml.md)
 
 ### Microsoft learning materials for AI development.
 * [Bootcamp: Developing applications using Cognitive Services, Azure Bot Services, and Azure Search](https://aka.ms/learnai-emergingaidevbootcamp)
