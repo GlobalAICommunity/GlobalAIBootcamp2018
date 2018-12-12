@@ -7,7 +7,7 @@ What if there was an automated service that identifies the best machine learning
 Just as important, automated ML accomplishes all this without having to see the customer’s data, preserving privacy. Automated ML is designed to not look at the customer’s data. Customer data and execution of the machine learning pipeline both live in the customer’s cloud subscription (or their local machine), which they have complete control of. Only the results of each pipeline run are sent back to the automated ML service, which then makes an intelligent, probabilistic choice of which pipelines should be tried next. In the workshop come learn how to use the service for a demand forecasting scenario and build a ready to deploy model.
 
 __Workshop material__
-* Powerpoint Deck 
+* Powerpoint Deck - [Download](automatedml.pptx)
 * Workshop Intro Video : https://www.youtube.com/watch?v=xr5Z-QZ4V4s 
-* Workshop Notebook - aka.ms/globalainotebook  
+* Workshop Notebook - https://aka.ms/globalainotebook  
 * Github samples - https://github.com/Azure/MachineLearningNotebooks/
