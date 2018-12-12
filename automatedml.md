@@ -1,4 +1,4 @@
-Workshop : Learn How to Build a Machine Learning Model Using Automated Machine Learning
+## Workshop : Learn How to Build a Machine Learning Model Using Automated Machine Learning
 
 Intelligent experiences powered by AI can seem like magic to users. Developing them, however, is cumbersome involving a series of sequential and interconnected decisions along the way that are pretty time consuming. 
 
