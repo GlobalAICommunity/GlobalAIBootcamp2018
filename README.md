@@ -13,3 +13,4 @@ Workshops / Presentation / Demo's to use on the Global AI Bootcamp 2018 (www.glo
 * [Workshop : Learn How to Build a Machine Learning Model Using Automated Machine Learning](automatedml.md)
 * [Human Resources Analytics – Predict Employee Leave](http://www.md2c.nl/predict-employee-leave-human-resources-analytics/)
 * [Bootcamp: Developing applications using Cognitive Services, Azure Bot Services, and Azure Search](https://aka.ms/learnai-emergingaidevbootcamp)
+* [Get started with Azure Machine Learning Services](https://github.com/wmeints/azure-ml-labs)
