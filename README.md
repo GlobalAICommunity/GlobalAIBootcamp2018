@@ -17,4 +17,4 @@ Workshops / Presentation / Demo's to use on the Global AI Bootcamp 2018 (www.glo
 
 
 ### Presentations
-* [Kubernetes for Machine Learning](Global AI Bootcamp Singapore - Kubernetes for Machine Learning.pdf)
+* [Kubernetes for Machine Learning](https://github.com/hnky/GlobalAIBootcamp2018/raw/master/Global%20AI%20Bootcamp%20Singapore%20-%20Kubernetes%20for%20%20Machine%20Learning.pdf)
