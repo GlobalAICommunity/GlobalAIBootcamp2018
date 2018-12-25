@@ -22,4 +22,4 @@ Workshops / Presentation / Demo's to use on the Global AI Bootcamp 2018 (www.glo
 * Mumbai  <br>
  &nbsp; &nbsp; [Introduction to Azure ML Platform by PS Pathak](Presentations/Mumbai/MicrosoftAzure_StartGuide_Developers.pdf)  
  &nbsp; &nbsp; [DevOps in Chatbot by Sohel Shekha](Presentations/Mumbai/DevopsInChatbot.pptx)  
- &nbsp; &nbsp; [Machine Learning on Azure using ElasticSearch by RavI Ramnani](Presentations/Mumbai/Elasticsearch_MLOverview.pdf)
+ &nbsp; &nbsp; [Machine Learning on Azure using ElasticSearch by RavI Ramnani](Presentations/Mumbai/Elasticsearch_MLOverview.pdf)  <br/>&nbsp; &nbsp; [Video Playlist of all the sessions](https://www.youtube.com/playlist?list=PLjGqwLY5c2r4AJZGYseZ9F1mwZfikxvM1)
