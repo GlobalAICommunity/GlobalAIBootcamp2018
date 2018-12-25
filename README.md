@@ -18,3 +18,8 @@ Workshops / Presentation / Demo's to use on the Global AI Bootcamp 2018 (www.glo
 
 ### Presentations
 * [Kubernetes for Machine Learning](https://github.com/hnky/GlobalAIBootcamp2018/raw/master/Global%20AI%20Bootcamp%20Singapore%20-%20Kubernetes%20for%20%20Machine%20Learning.pdf)
+
+* Mumbai  <br>
+ &nbsp; &nbsp; [Introduction to Azure ML Platform by PS Pathak](Presentations/Mumbai/MicrosoftAzure_StartGuide_Developers.pdf)  
+ &nbsp; &nbsp; [DevOps in Chatbot by Sohel Shekha](Presentations/Mumbai/DevopsInChatbot.pptx)  
+ &nbsp; &nbsp; [Machine Learning on Azure using ElasticSearch by RavI Ramnani](Presentations/Mumbai/Elasticsearch_MLOverview.pdf)
